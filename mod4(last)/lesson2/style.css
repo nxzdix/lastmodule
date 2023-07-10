@@ -1,0 +1,23 @@
+.paragraph-1 {
+    background: #3b8f96;
+}
+
+.paragraph-2 {
+    border: #96423b dotted 6px;
+/**   margin-top: 60px;
+   margin-left: 60px;
+   margin-right: 60px;
+   margin-bottom: 60px; **/
+   margin: 60px;
+
+   padding: 40px;
+}
+.paragraph-3 {
+    color: #4c64d2;
+    font-family: Courier;
+
+}
+
+.info {
+font-weight: bold;
+}
