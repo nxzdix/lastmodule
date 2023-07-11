@@ -1,3 +1,12 @@
 .paragraph-1 {
 color: #ebb9bd
 }
+
+.paragraph-2{
+background: #ebc9b9;
+border: 2px solid #ebb9d1;
+padding: 10px;
+width: 100%;
+height: 200px;
+fon-size: 13px;
+}
